@@ -37,7 +37,7 @@ Bonus: Leverage the popular GSON library to streamline the parsing of JSON data.
 
 ## Video Walkthrough 
 
-<img src='http://i.imgur.com/8WZATso.gif' title='NYTArticle_Minh' width='' alt='NYTArticle_Minh' />
+<img src='http://i.imgur.com/8WZATso.gif' title='NYTArticle_Minh' alt='NYTArticle_Minh' />
 
 ## Notes
 
